@@ -256,7 +256,9 @@ footer {
         position: static;
         max-width: 300px;
     }
-
+    .footer{
+        width: 350px;
+    }
     .teams-img-container {
         grid-template-columns: 1fr;
     }
